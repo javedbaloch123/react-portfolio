@@ -97,7 +97,15 @@
       font-size: 18px;
       width: 200px;
    }
-
-   
+.Mywork-container img{
+   box-sizing: border-box;
+    width: 324px;
+    height: 219px;
+    /* transition: .3s; */
+    cursor: pointer;
+}
+   .container-work{
+      width: 80%;
+   }
 
  }

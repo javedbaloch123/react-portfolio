@@ -165,8 +165,7 @@
   
   .input-div{
     gap: 10px;
-    width: 440px;
-    margin-left: 10px;
+    width: 100%;
   }
 
   .contact-btn{
@@ -176,4 +175,12 @@
   .left-form{
     gap: 10px;
   }
+
+  .container-work{
+    width: 80%;
+ }
+
+ .input-div input, textarea{
+    width: 340px;
+ }
  }

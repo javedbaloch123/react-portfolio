@@ -8,3 +8,9 @@
   background: #161513;
   color: white;
  }
+@media(max-width: 768px){
+    /* #root{
+        width: 130%;
+     } */
+}
+ 

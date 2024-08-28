@@ -73,15 +73,19 @@
 
 
 @media(max-width: 768px) {
+
+    .hero{
+        gap: 7px;
+    }
     .hero img {
-        margin-bottom: 120px;
-        width: 250px;
+        margin-bottom: 50px;
+        width: 190px;
     }
 
     .hero h1 {
         margin-top: 50px;
         width: 90%;
-        font-size: 50px;
+        font-size: 40px;
     }
 
     .hero p {

@@ -131,8 +131,8 @@
  @media(max-width: 768px){
    .services{
       align-items: start;
-      gap: 70px;
-      margin: 20px 70px;
+      gap: 60px;
+      margin: 29px 50px;
    }
 
    .service-title h1{
@@ -147,9 +147,9 @@
    }
 
    .service-formate{
-      gap: 15px;
-      padding: 32px;
-      width: 200px;
+      gap: 5px;
+      padding: 23px;
+      width: 195px;
 
    }
 

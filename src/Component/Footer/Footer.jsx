@@ -1,12 +1,13 @@
 import React from 'react'
 import './Footer.css';
+import logo from 'E:/portfolio-react/src/assets/logo.svg'
 
 const Footer = () => {
   return (
     <div className="container">
       <div className='footer-div'>
         <div className="footer-title">
-          <img src="/src/assets/logo.svg" />
+          <img src={logo} />
           <div className="para">
             <p>This is my channel you can sybscribe thisthis is my channel you can subscribe thisthis is my channel you can sybscribe this thisthis is my channel you can subscribe.</p>
           </div>

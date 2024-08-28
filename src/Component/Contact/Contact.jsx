@@ -1,7 +1,7 @@
 import React from 'react'
 import theme_pattern from '../../assets/theme_pattern.svg'
 import './Contact.css';
-import email_icon from '../../assets/mail_icon.svg';
+import email_icon from 'E:/portfolio-react/src/assets/mail_icon.svg';
 import phone_icon from '../../assets/call_icon.svg';
 // import 'react-notifications/lib/notifications.css';
 // import { NotificationContainer, NotificationManager } from 'react-notifications';
